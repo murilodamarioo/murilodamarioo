@@ -3,8 +3,6 @@
   <img width="49%" height="195px" src="https://github-readme-statS.vercel.app/api/top-langs/?username=murilodamarioo&layout=compact&hide_border=true&theme=dracula" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=murilodamarioo&theme=gotham&hide_border=true&area=true)
-
 ### Main skills:
 <div style="display: inline_block">
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
