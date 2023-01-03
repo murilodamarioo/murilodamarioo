@@ -29,7 +29,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
                                                                                                                             
-### Studying in this moment:
+### Currently studying:
 <p>
   I'm currently studying AWS Serveless with Typescript using CDK as a backend development framework.
   I know the main AWS services with Lambda, DynamoDB, SQS, SSM, Eventbridge, S3 and others.
