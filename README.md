@@ -35,6 +35,7 @@
 <p>
   I'm currently studying AWS Serveless with Typescript using CDK as a backend development framework.
   I know the main AWS services with Lambda, DynamoDB, SQS, SSM, Eventbridge, S3 and others.
+  Also I'm learning a little about TDD.
 </p>
   
   ##
