@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="49%" height="230px" src="https://github-readme-stats.vercel.app/api?username=murilodamarioo&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Murilo Damario github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=murilodamarioo&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Murilo Damario github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-statS.vercel.app/api/top-langs/?username=murilodamarioo&layout=compact&hide_border=true&theme=dracula" />
 </div>
 
