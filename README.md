@@ -36,9 +36,7 @@
   </a>
 </div>
 
-  ##
- 
-![Snake animation](https://github.com/laylamonteiro/laylamonteiro/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/murilodamarioo/murilodamarioo/output/snake.svg" alt="Snake animation" />
 
-  ##
+###
 
