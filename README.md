@@ -5,6 +5,18 @@
 
 ---
 
+
+<!-- STREAK + ACTIVITY -->
+
+## 🏆 BATTLE RECORDS
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=murilodamarioo&theme=dark&hide_border=false&background=383838&stroke=FF6D1F&ring=A00000&fire=FF6D1F&currStreakNum=F0DCBA&sideNums=DFDFDF&currStreakLabel=FF6D1F&sideLabels=F0DCBA&dates=DFDFDF" height="160" alt="streak stats" />
+
+[![Murilo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murilodamarioo&bg_color=383838&color=F0DCBA&line=FF6D1F&point=A00000&area=true&hide_border=false&area_color=25473B)](https://github.com/murilodamarioo)
+
+---
+
+
 ## ⚡ QUIRK ARSENAL — TECH STACK
 
 > *"A real hero masters every weapon at their disposal."* — Bakugo
@@ -41,15 +53,6 @@
 
 ---
 
-<!-- STREAK + ACTIVITY -->
-
-## 🏆 BATTLE RECORDS
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=murilodamarioo&theme=dark&hide_border=false&background=383838&stroke=FF6D1F&ring=A00000&fire=FF6D1F&currStreakNum=F0DCBA&sideNums=DFDFDF&currStreakLabel=FF6D1F&sideLabels=F0DCBA&dates=DFDFDF" height="160" alt="streak stats" />
-
-[![Murilo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murilodamarioo&bg_color=383838&color=F0DCBA&line=FF6D1F&point=A00000&area=true&hide_border=false&area_color=25473B)](https://github.com/murilodamarioo)
-
----
 
 <!-- SNAKE + VILLAIN SECTION -->
 
