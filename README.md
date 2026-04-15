@@ -59,8 +59,6 @@
 
 <img src="https://raw.githubusercontent.com/murilodamarioo/murilodamarioo/output/snake.svg" alt="Snake animation" />
 
-*Every commit is an explosion. Villains don't stand a chance.* 💥
-
 ---
 
 <!-- CONTACT + FOOTER -->
