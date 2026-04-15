@@ -5,39 +5,51 @@
 
 ---
 
-
-<!-- STREAK + ACTIVITY -->
+<!-- BATTLE RECORDS + GIF -->
 
 ## 🏆 BATTLE RECORDS
+
+<table>
+<tr>
+<td valign="top" width="35%" align="center">
+
+<img src="https://github.com/murilodamarioo/murilodamarioo/raw/main/allmight.gif" width="220" alt="AllMight" />
+
+</td>
+
+<td valign="top" width="65%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=murilodamarioo&theme=dark&hide_border=false&background=383838&stroke=FF6D1F&ring=A00000&fire=FF6D1F&currStreakNum=F0DCBA&sideNums=DFDFDF&currStreakLabel=FF6D1F&sideLabels=F0DCBA&dates=DFDFDF" height="160" alt="streak stats" />
 
 [![Murilo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murilodamarioo&bg_color=383838&color=F0DCBA&line=FF6D1F&point=A00000&area=true&hide_border=false&area_color=25473B)](https://github.com/murilodamarioo)
 
+</td>
+</tr>
+</table>
+
 ---
 
-
-## ⚡ QUIRK ARSENAL — TECH STACK
+## ⚡ TECH STACK
 
 > *"A real hero masters every weapon at their disposal."* — Bakugo
 
 <br>
 
-### 🔴 Core Quirks — Languages
+### 🔴 Languages
 
-| | Quirk | Power Level | Battle Style |
-|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" /> | **TypeScript** | `████████████ MAX` | 💥 Primary Explosion |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" /> | **JavaScript** | `██████████░░ HIGH` | ⚡ AP Shot |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" /> | **Java** | `████████░░░░ MID` | 🔥 Stun Grenade |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" /> | **Python** | `███████░░░░░ MID` | 🌪️ Cluster Blast |
+| | Language | Battle Style |
+|:---:|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" /> | **TypeScript** | 💥 Primary Explosion |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" /> | **JavaScript** | ⚡ AP Shot |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" /> | **Java** | 🔥 Stun Grenade |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" /> | **Python** | 🌪️ Cluster Blast |
 
 <br>
 
-### 💥 Explosion Techniques — Frameworks
+### 💥 Frameworks
 
 | | Framework | Role |
-|---|---|---|
+|:---:|---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" /> | **React** | Front-end Warfare |
 | <img src="https://cdn.simpleicons.org/spring/6DB33F" height="28" /> | **Spring Boot** | Heavy Artillery |
 | <img src="https://skillicons.dev/icons?i=express" height="28" /> | **Express** | Rapid Strike |
@@ -45,14 +57,13 @@
 
 <br>
 
-### ☁️ Support Items — Cloud & Infra
+### ☁️ Cloud & Infra
 
 | | Tool | Role |
-|---|---|---|
+|:---:|---|---|
 | <img src="https://skillicons.dev/icons?i=aws" height="28" /> | **AWS** | Hero HQ — Cloud Operations |
 
 ---
-
 
 <!-- SNAKE + VILLAIN SECTION -->
 
