@@ -31,37 +31,25 @@
 
 ## ⚡ TECH STACK
 
-> *"A real hero masters every weapon at their disposal."* — Bakugo
-
-<br>
-
-### 🔴 Languages
-
-| | Language | Battle Style |
-|:---:|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" /> | **TypeScript** | 💥 Primary Explosion |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" /> | **JavaScript** | ⚡ AP Shot |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" /> | **Java** | 🔥 Stun Grenade |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" /> | **Python** | 🌪️ Cluster Blast |
-
-<br>
-
-### 💥 Frameworks
-
-| | Framework | Role |
-|:---:|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" /> | **React** | Front-end Warfare |
-| <img src="https://cdn.simpleicons.org/spring/6DB33F" height="28" /> | **Spring Boot** | Heavy Artillery |
-| <img src="https://skillicons.dev/icons?i=express" height="28" /> | **Express** | Rapid Strike |
-| <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastify.png" height="28" /> | **Fastify** | Speed Blitz |
-
-<br>
-
-### ☁️ Cloud & Infra
-
-| | Tool | Role |
-|:---:|---|---|
-| <img src="https://skillicons.dev/icons?i=aws" height="28" /> | **AWS** | Hero HQ — Cloud Operations |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastify.png" height="30" alt="Fastify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+</div>
 
 ---
 
@@ -90,9 +78,14 @@
 ---
 
 <div align="center">
-
-<img src="https://github.com/murilodamarioo/murilodamarioo/raw/main/assets/allmight.gif" height="200" alt="AllMight" />
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=murilodamarioo.murilodamarioo&left_color=383838&right_color=FF6D1F&left_text=VISITORS)
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/murilodamarioo/murilodamarioo/raw/main/assets/allmight.gif" height="200" alt="AllMight" />
+      </td>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=murilodamarioo&color=FF6D1F&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
+      </td>
+    </tr>
+  </table>
 </div>
